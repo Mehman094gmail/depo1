@@ -1,0 +1,2 @@
+# sirket
+Biznes sirket
